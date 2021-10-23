@@ -1,5 +1,22 @@
 # Kaggle ML/DS Survey
 
+### Data Overview
+* [Exploratory Data Analysis](notebooks/exploratory-data-analysis.md)
+* Data Dictionary: Response Table
+  - Duration in seconds
+  - TODO: Fill in rest
+
+* Column Types: Questions table
+  - Regular question/response (e.g. Q25 "What is your current yearly compensation (approximate $USD)?")
+  - Multiple Response (e.g. Q7_Part_N: "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - {response here}")
+  - TODO: clean this up
+
+### Research Questions
+* Do some clustering to find different types of use cases
+* Figure out what kinds of machine learning people reported (cluster into groups)
+* Q42: Which media sources have which types of above categories? (are there any differences?)
+* TODO: Brainstorm some more
+
 ### Project Organization
 (realize this is overkill for this kind of analysis, but practicing my personal discipline of data science / analytics project organization)
 
