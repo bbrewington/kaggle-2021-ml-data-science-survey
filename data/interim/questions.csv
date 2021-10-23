@@ -1,370 +1,370 @@
-question_key,id,id_sub,part
-Time from Start to Finish (seconds),,,
-Q1,1,,
-Q2,2,,
-Q3,3,,
-Q4,4,,
-Q5,5,,
-Q6,6,,
-Q7_Part_1,7,,1
-Q7_Part_2,7,,2
-Q7_Part_3,7,,3
-Q7_Part_4,7,,4
-Q7_Part_5,7,,5
-Q7_Part_6,7,,6
-Q7_Part_7,7,,7
-Q7_Part_8,7,,8
-Q7_Part_9,7,,9
-Q7_Part_10,7,,10
-Q7_Part_11,7,,11
-Q7_Part_12,7,,12
-Q7_OTHER,7,,OTHER
-Q8,8,,
-Q9_Part_1,9,,1
-Q9_Part_2,9,,2
-Q9_Part_3,9,,3
-Q9_Part_4,9,,4
-Q9_Part_5,9,,5
-Q9_Part_6,9,,6
-Q9_Part_7,9,,7
-Q9_Part_8,9,,8
-Q9_Part_9,9,,9
-Q9_Part_10,9,,10
-Q9_Part_11,9,,11
-Q9_Part_12,9,,12
-Q9_OTHER,9,,OTHER
-Q10_Part_1,10,,1
-Q10_Part_2,10,,2
-Q10_Part_3,10,,3
-Q10_Part_4,10,,4
-Q10_Part_5,10,,5
-Q10_Part_6,10,,6
-Q10_Part_7,10,,7
-Q10_Part_8,10,,8
-Q10_Part_9,10,,9
-Q10_Part_10,10,,10
-Q10_Part_11,10,,11
-Q10_Part_12,10,,12
-Q10_Part_13,10,,13
-Q10_Part_14,10,,14
-Q10_Part_15,10,,15
-Q10_Part_16,10,,16
-Q10_OTHER,10,,OTHER
-Q11,11,,
-Q12_Part_1,12,,1
-Q12_Part_2,12,,2
-Q12_Part_3,12,,3
-Q12_Part_4,12,,4
-Q12_Part_5,12,,5
-Q12_OTHER,12,,OTHER
-Q13,13,,
-Q14_Part_1,14,,1
-Q14_Part_2,14,,2
-Q14_Part_3,14,,3
-Q14_Part_4,14,,4
-Q14_Part_5,14,,5
-Q14_Part_6,14,,6
-Q14_Part_7,14,,7
-Q14_Part_8,14,,8
-Q14_Part_9,14,,9
-Q14_Part_10,14,,10
-Q14_Part_11,14,,11
-Q14_OTHER,14,,OTHER
-Q15,15,,
-Q16_Part_1,16,,1
-Q16_Part_2,16,,2
-Q16_Part_3,16,,3
-Q16_Part_4,16,,4
-Q16_Part_5,16,,5
-Q16_Part_6,16,,6
-Q16_Part_7,16,,7
-Q16_Part_8,16,,8
-Q16_Part_9,16,,9
-Q16_Part_10,16,,10
-Q16_Part_11,16,,11
-Q16_Part_12,16,,12
-Q16_Part_13,16,,13
-Q16_Part_14,16,,14
-Q16_Part_15,16,,15
-Q16_Part_16,16,,16
-Q16_Part_17,16,,17
-Q16_OTHER,16,,OTHER
-Q17_Part_1,17,,1
-Q17_Part_2,17,,2
-Q17_Part_3,17,,3
-Q17_Part_4,17,,4
-Q17_Part_5,17,,5
-Q17_Part_6,17,,6
-Q17_Part_7,17,,7
-Q17_Part_8,17,,8
-Q17_Part_9,17,,9
-Q17_Part_10,17,,10
-Q17_Part_11,17,,11
-Q17_OTHER,17,,OTHER
-Q18_Part_1,18,,1
-Q18_Part_2,18,,2
-Q18_Part_3,18,,3
-Q18_Part_4,18,,4
-Q18_Part_5,18,,5
-Q18_Part_6,18,,6
-Q18_OTHER,18,,OTHER
-Q19_Part_1,19,,1
-Q19_Part_2,19,,2
-Q19_Part_3,19,,3
-Q19_Part_4,19,,4
-Q19_Part_5,19,,5
-Q19_OTHER,19,,OTHER
-Q20,20,,
-Q21,21,,
-Q22,22,,
-Q23,23,,
-Q24_Part_1,24,,1
-Q24_Part_2,24,,2
-Q24_Part_3,24,,3
-Q24_Part_4,24,,4
-Q24_Part_5,24,,5
-Q24_Part_6,24,,6
-Q24_Part_7,24,,7
-Q24_OTHER,24,,OTHER
-Q25,25,,
-Q26,26,,
-Q27_A_Part_1,27,A,1
-Q27_A_Part_2,27,A,2
-Q27_A_Part_3,27,A,3
-Q27_A_Part_4,27,A,4
-Q27_A_Part_5,27,A,5
-Q27_A_Part_6,27,A,6
-Q27_A_Part_7,27,A,7
-Q27_A_Part_8,27,A,8
-Q27_A_Part_9,27,A,9
-Q27_A_Part_10,27,A,10
-Q27_A_Part_11,27,A,11
-Q27_A_OTHER,27,A,OTHER
-Q28,28,,
-Q29_A_Part_1,29,A,1
-Q29_A_Part_2,29,A,2
-Q29_A_Part_3,29,A,3
-Q29_A_Part_4,29,A,4
-Q29_A_OTHER,29,A,OTHER
-Q30_A_Part_1,30,A,1
-Q30_A_Part_2,30,A,2
-Q30_A_Part_3,30,A,3
-Q30_A_Part_4,30,A,4
-Q30_A_Part_5,30,A,5
-Q30_A_Part_6,30,A,6
-Q30_A_Part_7,30,A,7
-Q30_A_OTHER,30,A,OTHER
-Q31_A_Part_1,31,A,1
-Q31_A_Part_2,31,A,2
-Q31_A_Part_3,31,A,3
-Q31_A_Part_4,31,A,4
-Q31_A_Part_5,31,A,5
-Q31_A_Part_6,31,A,6
-Q31_A_Part_7,31,A,7
-Q31_A_Part_8,31,A,8
-Q31_A_Part_9,31,A,9
-Q31_A_OTHER,31,A,OTHER
-Q32_A_Part_1,32,A,1
-Q32_A_Part_2,32,A,2
-Q32_A_Part_3,32,A,3
-Q32_A_Part_4,32,A,4
-Q32_A_Part_5,32,A,5
-Q32_A_Part_6,32,A,6
-Q32_A_Part_7,32,A,7
-Q32_A_Part_8,32,A,8
-Q32_A_Part_9,32,A,9
-Q32_A_Part_10,32,A,10
-Q32_A_Part_11,32,A,11
-Q32_A_Part_12,32,A,12
-Q32_A_Part_13,32,A,13
-Q32_A_Part_14,32,A,14
-Q32_A_Part_15,32,A,15
-Q32_A_Part_16,32,A,16
-Q32_A_Part_17,32,A,17
-Q32_A_Part_18,32,A,18
-Q32_A_Part_19,32,A,19
-Q32_A_Part_20,32,A,20
-Q32_A_OTHER,32,A,OTHER
-Q33,33,,
-Q34_A_Part_1,34,A,1
-Q34_A_Part_2,34,A,2
-Q34_A_Part_3,34,A,3
-Q34_A_Part_4,34,A,4
-Q34_A_Part_5,34,A,5
-Q34_A_Part_6,34,A,6
-Q34_A_Part_7,34,A,7
-Q34_A_Part_8,34,A,8
-Q34_A_Part_9,34,A,9
-Q34_A_Part_10,34,A,10
-Q34_A_Part_11,34,A,11
-Q34_A_Part_12,34,A,12
-Q34_A_Part_13,34,A,13
-Q34_A_Part_14,34,A,14
-Q34_A_Part_15,34,A,15
-Q34_A_Part_16,34,A,16
-Q34_A_OTHER,34,A,OTHER
-Q35,35,,
-Q36_A_Part_1,36,A,1
-Q36_A_Part_2,36,A,2
-Q36_A_Part_3,36,A,3
-Q36_A_Part_4,36,A,4
-Q36_A_Part_5,36,A,5
-Q36_A_Part_6,36,A,6
-Q36_A_Part_7,36,A,7
-Q36_A_OTHER,36,A,OTHER
-Q37_A_Part_1,37,A,1
-Q37_A_Part_2,37,A,2
-Q37_A_Part_3,37,A,3
-Q37_A_Part_4,37,A,4
-Q37_A_Part_5,37,A,5
-Q37_A_Part_6,37,A,6
-Q37_A_Part_7,37,A,7
-Q37_A_OTHER,37,A,OTHER
-Q38_A_Part_1,38,A,1
-Q38_A_Part_2,38,A,2
-Q38_A_Part_3,38,A,3
-Q38_A_Part_4,38,A,4
-Q38_A_Part_5,38,A,5
-Q38_A_Part_6,38,A,6
-Q38_A_Part_7,38,A,7
-Q38_A_Part_8,38,A,8
-Q38_A_Part_9,38,A,9
-Q38_A_Part_10,38,A,10
-Q38_A_Part_11,38,A,11
-Q38_A_OTHER,38,A,OTHER
-Q39_Part_1,39,,1
-Q39_Part_2,39,,2
-Q39_Part_3,39,,3
-Q39_Part_4,39,,4
-Q39_Part_5,39,,5
-Q39_Part_6,39,,6
-Q39_Part_7,39,,7
-Q39_Part_8,39,,8
-Q39_Part_9,39,,9
-Q39_OTHER,39,,OTHER
-Q40_Part_1,40,,1
-Q40_Part_2,40,,2
-Q40_Part_3,40,,3
-Q40_Part_4,40,,4
-Q40_Part_5,40,,5
-Q40_Part_6,40,,6
-Q40_Part_7,40,,7
-Q40_Part_8,40,,8
-Q40_Part_9,40,,9
-Q40_Part_10,40,,10
-Q40_Part_11,40,,11
-Q40_OTHER,40,,OTHER
-Q41,41,,
-Q42_Part_1,42,,1
-Q42_Part_2,42,,2
-Q42_Part_3,42,,3
-Q42_Part_4,42,,4
-Q42_Part_5,42,,5
-Q42_Part_6,42,,6
-Q42_Part_7,42,,7
-Q42_Part_8,42,,8
-Q42_Part_9,42,,9
-Q42_Part_10,42,,10
-Q42_Part_11,42,,11
-Q42_OTHER,42,,OTHER
-Q27_B_Part_1,27,B,1
-Q27_B_Part_2,27,B,2
-Q27_B_Part_3,27,B,3
-Q27_B_Part_4,27,B,4
-Q27_B_Part_5,27,B,5
-Q27_B_Part_6,27,B,6
-Q27_B_Part_7,27,B,7
-Q27_B_Part_8,27,B,8
-Q27_B_Part_9,27,B,9
-Q27_B_Part_10,27,B,10
-Q27_B_Part_11,27,B,11
-Q27_B_OTHER,27,B,OTHER
-Q29_B_Part_1,29,B,1
-Q29_B_Part_2,29,B,2
-Q29_B_Part_3,29,B,3
-Q29_B_Part_4,29,B,4
-Q29_B_OTHER,29,B,OTHER
-Q30_B_Part_1,30,B,1
-Q30_B_Part_2,30,B,2
-Q30_B_Part_3,30,B,3
-Q30_B_Part_4,30,B,4
-Q30_B_Part_5,30,B,5
-Q30_B_Part_6,30,B,6
-Q30_B_Part_7,30,B,7
-Q30_B_OTHER,30,B,OTHER
-Q31_B_Part_1,31,B,1
-Q31_B_Part_2,31,B,2
-Q31_B_Part_3,31,B,3
-Q31_B_Part_4,31,B,4
-Q31_B_Part_5,31,B,5
-Q31_B_Part_6,31,B,6
-Q31_B_Part_7,31,B,7
-Q31_B_Part_8,31,B,8
-Q31_B_Part_9,31,B,9
-Q31_B_OTHER,31,B,OTHER
-Q32_B_Part_1,32,B,1
-Q32_B_Part_2,32,B,2
-Q32_B_Part_3,32,B,3
-Q32_B_Part_4,32,B,4
-Q32_B_Part_5,32,B,5
-Q32_B_Part_6,32,B,6
-Q32_B_Part_7,32,B,7
-Q32_B_Part_8,32,B,8
-Q32_B_Part_9,32,B,9
-Q32_B_Part_10,32,B,10
-Q32_B_Part_11,32,B,11
-Q32_B_Part_12,32,B,12
-Q32_B_Part_13,32,B,13
-Q32_B_Part_14,32,B,14
-Q32_B_Part_15,32,B,15
-Q32_B_Part_16,32,B,16
-Q32_B_Part_17,32,B,17
-Q32_B_Part_18,32,B,18
-Q32_B_Part_19,32,B,19
-Q32_B_Part_20,32,B,20
-Q32_B_OTHER,32,B,OTHER
-Q34_B_Part_1,34,B,1
-Q34_B_Part_2,34,B,2
-Q34_B_Part_3,34,B,3
-Q34_B_Part_4,34,B,4
-Q34_B_Part_5,34,B,5
-Q34_B_Part_6,34,B,6
-Q34_B_Part_7,34,B,7
-Q34_B_Part_8,34,B,8
-Q34_B_Part_9,34,B,9
-Q34_B_Part_10,34,B,10
-Q34_B_Part_11,34,B,11
-Q34_B_Part_12,34,B,12
-Q34_B_Part_13,34,B,13
-Q34_B_Part_14,34,B,14
-Q34_B_Part_15,34,B,15
-Q34_B_Part_16,34,B,16
-Q34_B_OTHER,34,B,OTHER
-Q36_B_Part_1,36,B,1
-Q36_B_Part_2,36,B,2
-Q36_B_Part_3,36,B,3
-Q36_B_Part_4,36,B,4
-Q36_B_Part_5,36,B,5
-Q36_B_Part_6,36,B,6
-Q36_B_Part_7,36,B,7
-Q36_B_OTHER,36,B,OTHER
-Q37_B_Part_1,37,B,1
-Q37_B_Part_2,37,B,2
-Q37_B_Part_3,37,B,3
-Q37_B_Part_4,37,B,4
-Q37_B_Part_5,37,B,5
-Q37_B_Part_6,37,B,6
-Q37_B_Part_7,37,B,7
-Q37_B_OTHER,37,B,OTHER
-Q38_B_Part_1,38,B,1
-Q38_B_Part_2,38,B,2
-Q38_B_Part_3,38,B,3
-Q38_B_Part_4,38,B,4
-Q38_B_Part_5,38,B,5
-Q38_B_Part_6,38,B,6
-Q38_B_Part_7,38,B,7
-Q38_B_Part_8,38,B,8
-Q38_B_Part_9,38,B,9
-Q38_B_Part_10,38,B,10
-Q38_B_Part_11,38,B,11
-Q38_B_OTHER,38,B,OTHER
+question_key,id,id_sub,part,description
+Time from Start to Finish (seconds),,,,Duration (in seconds)
+Q1,1,,,What is your age (# years)?
+Q2,2,,,What is your gender? - Selected Choice
+Q3,3,,,In which country do you currently reside?
+Q4,4,,,What is the highest level of formal education that you have attained or plan to attain within the next 2 years?
+Q5,5,,,Select the title most similar to your current role (or most recent title if retired): - Selected Choice
+Q6,6,,,For how many years have you been writing code and/or programming?
+Q7_Part_1,7,,1,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Python
+Q7_Part_2,7,,2,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - R
+Q7_Part_3,7,,3,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - SQL
+Q7_Part_4,7,,4,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - C
+Q7_Part_5,7,,5,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - C++
+Q7_Part_6,7,,6,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Java
+Q7_Part_7,7,,7,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Javascript
+Q7_Part_8,7,,8,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Julia
+Q7_Part_9,7,,9,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Swift
+Q7_Part_10,7,,10,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Bash
+Q7_Part_11,7,,11,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - MATLAB
+Q7_Part_12,7,,12,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - None
+Q7_OTHER,7,,OTHER,What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Other
+Q8,8,,,What programming language would you recommend an aspiring data scientist to learn first? - Selected Choice
+Q9_Part_1,9,,1,"Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice - Jupyter (JupyterLab, Jupyter Notebooks, etc) "
+Q9_Part_2,9,,2,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  RStudio 
+Q9_Part_3,9,,3,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  Visual Studio 
+Q9_Part_4,9,,4,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  Visual Studio Code (VSCode) 
+Q9_Part_5,9,,5,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  PyCharm 
+Q9_Part_6,9,,6,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Spyder  
+Q9_Part_7,9,,7,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Notepad++  
+Q9_Part_8,9,,8,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Sublime Text  
+Q9_Part_9,9,,9,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Vim / Emacs  
+Q9_Part_10,9,,10,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  MATLAB 
+Q9_Part_11,9,,11,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  Jupyter Notebook
+Q9_Part_12,9,,12,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Q9_OTHER,9,,OTHER,Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Q10_Part_1,10,,1,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Kaggle Notebooks
+Q10_Part_2,10,,2,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Colab Notebooks
+Q10_Part_3,10,,3,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Azure Notebooks
+Q10_Part_4,10,,4,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Paperspace / Gradient 
+Q10_Part_5,10,,5,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Binder / JupyterHub 
+Q10_Part_6,10,,6,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Code Ocean 
+Q10_Part_7,10,,7,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  IBM Watson Studio 
+Q10_Part_8,10,,8,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Amazon Sagemaker Studio Notebooks 
+Q10_Part_9,10,,9,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Amazon EMR Notebooks 
+Q10_Part_10,10,,10,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Google Cloud Notebooks (AI Platform / Vertex AI) 
+Q10_Part_11,10,,11,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Google Cloud Datalab
+Q10_Part_12,10,,12,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Databricks Collaborative Notebooks 
+Q10_Part_13,10,,13,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Zeppelin / Zepl Notebooks 
+Q10_Part_14,10,,14,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Deepnote Notebooks 
+Q10_Part_15,10,,15,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Observable Notebooks 
+Q10_Part_16,10,,16,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Q10_OTHER,10,,OTHER,Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Q11,11,,,What type of computing platform do you use most often for your data science projects? - Selected Choice
+Q12_Part_1,12,,1,Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice -  NVIDIA GPUs 
+Q12_Part_2,12,,2,Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice -  Google Cloud TPUs 
+Q12_Part_3,12,,3,Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice -  AWS Trainium Chips 
+Q12_Part_4,12,,4,Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice -  AWS Inferentia Chips 
+Q12_Part_5,12,,5,Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Q12_OTHER,12,,OTHER,Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Q13,13,,,Approximately how many times have you used a TPU (tensor processing unit)?
+Q14_Part_1,14,,1,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Matplotlib 
+Q14_Part_2,14,,2,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Seaborn 
+Q14_Part_3,14,,3,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Plotly / Plotly Express 
+Q14_Part_4,14,,4,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Ggplot / ggplot2 
+Q14_Part_5,14,,5,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Shiny 
+Q14_Part_6,14,,6,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  D3 js 
+Q14_Part_7,14,,7,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Altair 
+Q14_Part_8,14,,8,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Bokeh 
+Q14_Part_9,14,,9,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Geoplotlib 
+Q14_Part_10,14,,10,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Leaflet / Folium 
+Q14_Part_11,14,,11,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Q14_OTHER,14,,OTHER,What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Q15,15,,,For how many years have you used machine learning methods?
+Q16_Part_1,16,,1,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -   Scikit-learn 
+Q16_Part_2,16,,2,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -   TensorFlow 
+Q16_Part_3,16,,3,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Keras 
+Q16_Part_4,16,,4,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  PyTorch 
+Q16_Part_5,16,,5,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Fast.ai 
+Q16_Part_6,16,,6,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  MXNet 
+Q16_Part_7,16,,7,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Xgboost 
+Q16_Part_8,16,,8,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  LightGBM 
+Q16_Part_9,16,,9,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  CatBoost 
+Q16_Part_10,16,,10,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Prophet 
+Q16_Part_11,16,,11,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  H2O 3 
+Q16_Part_12,16,,12,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Caret 
+Q16_Part_13,16,,13,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Tidymodels 
+Q16_Part_14,16,,14,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  JAX 
+Q16_Part_15,16,,15,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  PyTorch Lightning 
+Q16_Part_16,16,,16,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Huggingface 
+Q16_Part_17,16,,17,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice - None
+Q16_OTHER,16,,OTHER,Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice - Other
+Q17_Part_1,17,,1,Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Linear or Logistic Regression
+Q17_Part_2,17,,2,Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Decision Trees or Random Forests
+Q17_Part_3,17,,3,"Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Gradient Boosting Machines (xgboost, lightgbm, etc)"
+Q17_Part_4,17,,4,Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Bayesian Approaches
+Q17_Part_5,17,,5,Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Evolutionary Approaches
+Q17_Part_6,17,,6,"Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Dense Neural Networks (MLPs, etc)"
+Q17_Part_7,17,,7,Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Convolutional Neural Networks
+Q17_Part_8,17,,8,Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Generative Adversarial Networks
+Q17_Part_9,17,,9,Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Recurrent Neural Networks
+Q17_Part_10,17,,10,"Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Transformer Networks (BERT, gpt-3, etc)"
+Q17_Part_11,17,,11,Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - None
+Q17_OTHER,17,,OTHER,Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Other
+Q18_Part_1,18,,1,"Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - General purpose image/video tools (PIL, cv2, skimage, etc)"
+Q18_Part_2,18,,2,"Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Image segmentation methods (U-Net, Mask R-CNN, etc)"
+Q18_Part_3,18,,3,"Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Object detection methods (YOLOv3, RetinaNet, etc)"
+Q18_Part_4,18,,4,"Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Image classification and other general purpose networks (VGG, Inception, ResNet, ResNeXt, NASNet, EfficientNet, etc)"
+Q18_Part_5,18,,5,"Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Generative Networks (GAN, VAE, etc)"
+Q18_Part_6,18,,6,Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Q18_OTHER,18,,OTHER,Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Q19_Part_1,19,,1,"Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Word embeddings/vectors (GLoVe, fastText, word2vec)"
+Q19_Part_2,19,,2,"Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Encoder-decorder models (seq2seq, vanilla transformers)"
+Q19_Part_3,19,,3,"Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Contextualized embeddings (ELMo, CoVe)"
+Q19_Part_4,19,,4,"Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Transformer language models (GPT-3, BERT, XLnet, etc)"
+Q19_Part_5,19,,5,Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Q19_OTHER,19,,OTHER,Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Q20,20,,,In what industry is your current employer/contract (or your most recent employer if retired)? - Selected Choice
+Q21,21,,,What is the size of the company where you are employed?
+Q22,22,,,Approximately how many individuals are responsible for data science workloads at your place of business?
+Q23,23,,,Does your current employer incorporate machine learning methods into their business?
+Q24_Part_1,24,,1,Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Analyze and understand data to influence product or business decisions
+Q24_Part_2,24,,2,"Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Build and/or run the data infrastructure that my business uses for storing, analyzing, and operationalizing data"
+Q24_Part_3,24,,3,Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Build prototypes to explore applying machine learning to new areas
+Q24_Part_4,24,,4,Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Build and/or run a machine learning service that operationally improves my product or workflows
+Q24_Part_5,24,,5,Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Experimentation and iteration to improve existing ML models
+Q24_Part_6,24,,6,Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Do research that advances the state of the art of machine learning
+Q24_Part_7,24,,7,Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - None of these activities are an important part of my role at work
+Q24_OTHER,24,,OTHER,Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Other
+Q25,25,,,What is your current yearly compensation (approximate $USD)?
+Q26,26,,,Approximately how much money have you (or your team) spent on machine learning and/or cloud computing services at home (or at work) in the past 5 years (approximate $USD)?
+Q27_A_Part_1,27,A,1,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Amazon Web Services (AWS) 
+Q27_A_Part_2,27,A,2,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Microsoft Azure 
+Q27_A_Part_3,27,A,3,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Google Cloud Platform (GCP) 
+Q27_A_Part_4,27,A,4,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  IBM Cloud / Red Hat 
+Q27_A_Part_5,27,A,5,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Oracle Cloud 
+Q27_A_Part_6,27,A,6,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  SAP Cloud 
+Q27_A_Part_7,27,A,7,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Salesforce Cloud 
+Q27_A_Part_8,27,A,8,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  VMware Cloud 
+Q27_A_Part_9,27,A,9,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Alibaba Cloud 
+Q27_A_Part_10,27,A,10,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Tencent Cloud 
+Q27_A_Part_11,27,A,11,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice - None
+Q27_A_OTHER,27,A,OTHER,Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice - Other
+Q28,28,,,"Of the cloud platforms that you are familiar with, which has the best developer experience (most enjoyable to use)? - Selected Choice"
+Q29_A_Part_1,29,A,1,Do you use any of the following cloud computing products on a regular basis? (Select all that apply) - Selected Choice -  Amazon Elastic Compute Cloud (EC2) 
+Q29_A_Part_2,29,A,2,Do you use any of the following cloud computing products on a regular basis? (Select all that apply) - Selected Choice -  Microsoft Azure Virtual Machines 
+Q29_A_Part_3,29,A,3,Do you use any of the following cloud computing products on a regular basis? (Select all that apply) - Selected Choice -  Google Cloud Compute Engine 
+Q29_A_Part_4,29,A,4,Do you use any of the following cloud computing products on a regular basis? (Select all that apply) - Selected Choice - No / None
+Q29_A_OTHER,29,A,OTHER,Do you use any of the following cloud computing products on a regular basis? (Select all that apply) - Selected Choice - Other
+Q30_A_Part_1,30,A,1,Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure Data Lake Storage 
+Q30_A_Part_2,30,A,2,Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure Disk Storage 
+Q30_A_Part_3,30,A,3,Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice -  Amazon Simple Storage Service (S3)  
+Q30_A_Part_4,30,A,4,Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice -  Amazon Elastic File System (EFS)  
+Q30_A_Part_5,30,A,5,Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - Google Cloud Storage (GCS)   
+Q30_A_Part_6,30,A,6,Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice -  Google Cloud Filestore 
+Q30_A_Part_7,30,A,7,Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - No / None
+Q30_A_OTHER,30,A,OTHER,Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - Other
+Q31_A_Part_1,31,A,1,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Amazon SageMaker 
+Q31_A_Part_2,31,A,2,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Azure Machine Learning Studio 
+Q31_A_Part_3,31,A,3,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Google Cloud Vertex AI
+Q31_A_Part_4,31,A,4,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  DataRobot
+Q31_A_Part_5,31,A,5,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Databricks
+Q31_A_Part_6,31,A,6,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Dataiku
+Q31_A_Part_7,31,A,7,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Alteryx
+Q31_A_Part_8,31,A,8,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Rapidminer
+Q31_A_Part_9,31,A,9,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice - No / None
+Q31_A_OTHER,31,A,OTHER,Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice - Other
+Q32_A_Part_1,32,A,1,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - MySQL "
+Q32_A_Part_2,32,A,2,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - PostgreSQL "
+Q32_A_Part_3,32,A,3,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - SQLite "
+Q32_A_Part_4,32,A,4,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Oracle Database "
+Q32_A_Part_5,32,A,5,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - MongoDB "
+Q32_A_Part_6,32,A,6,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Snowflake "
+Q32_A_Part_7,32,A,7,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - IBM Db2 "
+Q32_A_Part_8,32,A,8,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft SQL Server "
+Q32_A_Part_9,32,A,9,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure SQL Database "
+Q32_A_Part_10,32,A,10,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure Cosmos DB "
+Q32_A_Part_11,32,A,11,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Amazon Redshift "
+Q32_A_Part_12,32,A,12,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Amazon Aurora "
+Q32_A_Part_13,32,A,13,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Amazon RDS "
+Q32_A_Part_14,32,A,14,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Amazon DynamoDB "
+Q32_A_Part_15,32,A,15,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud BigQuery "
+Q32_A_Part_16,32,A,16,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud SQL "
+Q32_A_Part_17,32,A,17,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud Firestore "
+Q32_A_Part_18,32,A,18,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud BigTable "
+Q32_A_Part_19,32,A,19,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud Spanner "
+Q32_A_Part_20,32,A,20,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - None"
+Q32_A_OTHER,32,A,OTHER,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Other"
+Q33,33,,,"Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often? - Selected Choice"
+Q34_A_Part_1,34,A,1,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Amazon QuickSight
+Q34_A_Part_2,34,A,2,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft Power BI
+Q34_A_Part_3,34,A,3,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Google Data Studio
+Q34_A_Part_4,34,A,4,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Looker
+Q34_A_Part_5,34,A,5,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Tableau
+Q34_A_Part_6,34,A,6,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Salesforce
+Q34_A_Part_7,34,A,7,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Tableau CRM
+Q34_A_Part_8,34,A,8,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Qlik
+Q34_A_Part_9,34,A,9,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Domo
+Q34_A_Part_10,34,A,10,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - TIBCO Spotfire
+Q34_A_Part_11,34,A,11,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Alteryx 
+Q34_A_Part_12,34,A,12,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Sisense 
+Q34_A_Part_13,34,A,13,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - SAP Analytics Cloud 
+Q34_A_Part_14,34,A,14,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure Synapse 
+Q34_A_Part_15,34,A,15,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Thoughtspot 
+Q34_A_Part_16,34,A,16,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - None
+Q34_A_OTHER,34,A,OTHER,Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Other
+Q35,35,,,Which of the following business intelligence tools do you use most often? - Selected Choice
+Q36_A_Part_1,36,A,1,"Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automated data augmentation (e.g. imgaug, albumentations)"
+Q36_A_Part_2,36,A,2,"Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automated feature engineering/selection (e.g. tpot, boruta_py)"
+Q36_A_Part_3,36,A,3,"Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automated model selection (e.g. auto-sklearn, xcessiv)"
+Q36_A_Part_4,36,A,4,"Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automated model architecture searches (e.g. darts, enas)"
+Q36_A_Part_5,36,A,5,"Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automated hyperparameter tuning (e.g. hyperopt, ray.tune, Vizier)"
+Q36_A_Part_6,36,A,6,"Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automation of full ML pipelines (e.g. Google AutoML, H2O Driverless AI)"
+Q36_A_Part_7,36,A,7,Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - No / None
+Q36_A_OTHER,36,A,OTHER,Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Other
+Q37_A_Part_1,37,A,1,Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -  Google Cloud AutoML 
+Q37_A_Part_2,37,A,2,Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -  H2O Driverless AI  
+Q37_A_Part_3,37,A,3,Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -  Databricks AutoML 
+Q37_A_Part_4,37,A,4,Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -  DataRobot AutoML 
+Q37_A_Part_5,37,A,5,Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Amazon Sagemaker Autopilot 
+Q37_A_Part_6,37,A,6,Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Azure Automated Machine Learning 
+Q37_A_Part_7,37,A,7,Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice - No / None
+Q37_A_OTHER,37,A,OTHER,Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Q38_A_Part_1,38,A,1,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Neptune.ai 
+Q38_A_Part_2,38,A,2,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Weights & Biases 
+Q38_A_Part_3,38,A,3,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Comet.ml 
+Q38_A_Part_4,38,A,4,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Sacred + Omniboard 
+Q38_A_Part_5,38,A,5,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  TensorBoard 
+Q38_A_Part_6,38,A,6,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Guild.ai 
+Q38_A_Part_7,38,A,7,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Polyaxon 
+Q38_A_Part_8,38,A,8,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  ClearML 
+Q38_A_Part_9,38,A,9,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Domino Model Monitor 
+Q38_A_Part_10,38,A,10,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  MLflow 
+Q38_A_Part_11,38,A,11,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice - No / None
+Q38_A_OTHER,38,A,OTHER,Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice - Other
+Q39_Part_1,39,,1,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Plotly Dash 
+Q39_Part_2,39,,2,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Streamlit 
+Q39_Part_3,39,,3,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  NBViewer 
+Q39_Part_4,39,,4,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  GitHub 
+Q39_Part_5,39,,5,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Personal blog 
+Q39_Part_6,39,,6,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Kaggle 
+Q39_Part_7,39,,7,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Colab 
+Q39_Part_8,39,,8,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Shiny 
+Q39_Part_9,39,,9,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice - I do not share my work publicly
+Q39_OTHER,39,,OTHER,Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice - Other
+Q40_Part_1,40,,1,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Coursera
+Q40_Part_2,40,,2,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - edX
+Q40_Part_3,40,,3,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Kaggle Learn Courses
+Q40_Part_4,40,,4,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - DataCamp
+Q40_Part_5,40,,5,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Fast.ai
+Q40_Part_6,40,,6,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Udacity
+Q40_Part_7,40,,7,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Udemy
+Q40_Part_8,40,,8,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - LinkedIn Learning
+Q40_Part_9,40,,9,"On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Cloud-certification programs (direct from AWS, Azure, GCP, or similar)"
+Q40_Part_10,40,,10,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - University Courses (resulting in a university degree)
+Q40_Part_11,40,,11,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - None
+Q40_OTHER,40,,OTHER,On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Other
+Q41,41,,,What is the primary tool that you use at work or school to analyze data? (Include text response) - Selected Choice
+Q42_Part_1,42,,1,Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Twitter (data science influencers)
+Q42_Part_2,42,,2,"Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Email newsletters (Data Elixir, O'Reilly Data & AI, etc)"
+Q42_Part_3,42,,3,"Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Reddit (r/machinelearning, etc)"
+Q42_Part_4,42,,4,"Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Kaggle (notebooks, forums, etc)"
+Q42_Part_5,42,,5,"Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Course Forums (forums.fast.ai, Coursera forums, etc)"
+Q42_Part_6,42,,6,"Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - YouTube (Kaggle YouTube, Cloud AI Adventures, etc)"
+Q42_Part_7,42,,7,"Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Podcasts (Chai Time Data Science, O’Reilly Data Show, etc)"
+Q42_Part_8,42,,8,"Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Blogs (Towards Data Science, Analytics Vidhya, etc)"
+Q42_Part_9,42,,9,"Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Journal Publications (peer-reviewed journals, conference proceedings, etc)"
+Q42_Part_10,42,,10,"Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Slack Communities (ods.ai, kagglenoobs, etc)"
+Q42_Part_11,42,,11,Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - None
+Q42_OTHER,42,,OTHER,Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Other
+Q27_B_Part_1,27,B,1,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Amazon Web Services (AWS) 
+Q27_B_Part_2,27,B,2,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Microsoft Azure 
+Q27_B_Part_3,27,B,3,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Google Cloud Platform (GCP) 
+Q27_B_Part_4,27,B,4,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  IBM Cloud / Red Hat 
+Q27_B_Part_5,27,B,5,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Oracle Cloud 
+Q27_B_Part_6,27,B,6,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  SAP Cloud 
+Q27_B_Part_7,27,B,7,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  VMware Cloud 
+Q27_B_Part_8,27,B,8,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Salesforce Cloud 
+Q27_B_Part_9,27,B,9,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Alibaba Cloud 
+Q27_B_Part_10,27,B,10,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Tencent Cloud 
+Q27_B_Part_11,27,B,11,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice - None
+Q27_B_OTHER,27,B,OTHER,Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice - Other
+Q29_B_Part_1,29,B,1,"In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply) - Selected Choice -  Amazon Elastic Compute Cloud (EC2) "
+Q29_B_Part_2,29,B,2,"In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply) - Selected Choice -  Microsoft Azure Virtual Machines "
+Q29_B_Part_3,29,B,3,"In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply) - Selected Choice -  Google Cloud Compute Engine "
+Q29_B_Part_4,29,B,4,"In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply) - Selected Choice - None"
+Q29_B_OTHER,29,B,OTHER,"In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply) - Selected Choice - Other"
+Q30_B_Part_1,30,B,1,"In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - Microsoft Azure Data Lake Storage "
+Q30_B_Part_2,30,B,2,"In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - Microsoft Azure Disk Storage "
+Q30_B_Part_3,30,B,3,"In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice -  Amazon Simple Storage Service (S3)  "
+Q30_B_Part_4,30,B,4,"In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice -  Amazon Elastic File System (EFS)  "
+Q30_B_Part_5,30,B,5,"In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - Google Cloud Storage (GCS)   "
+Q30_B_Part_6,30,B,6,"In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice -  Google Cloud Filestore "
+Q30_B_Part_7,30,B,7,"In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - No / None"
+Q30_B_OTHER,30,B,OTHER,"In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - Other"
+Q31_B_Part_1,31,B,1,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Amazon SageMaker "
+Q31_B_Part_2,31,B,2,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Azure Machine Learning Studio "
+Q31_B_Part_3,31,B,3,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Google Cloud Vertex AI"
+Q31_B_Part_4,31,B,4,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  DataRobot"
+Q31_B_Part_5,31,B,5,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Databricks"
+Q31_B_Part_6,31,B,6,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Dataiku"
+Q31_B_Part_7,31,B,7,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Alteryx"
+Q31_B_Part_8,31,B,8,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Rapidminer"
+Q31_B_Part_9,31,B,9,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice - None"
+Q31_B_OTHER,31,B,OTHER,"In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice - Other"
+Q32_B_Part_1,32,B,1,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - MySQL "
+Q32_B_Part_2,32,B,2,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - PostgreSQL "
+Q32_B_Part_3,32,B,3,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - SQLite "
+Q32_B_Part_4,32,B,4,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Oracle Database "
+Q32_B_Part_5,32,B,5,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - MongoDB "
+Q32_B_Part_6,32,B,6,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Snowflake "
+Q32_B_Part_7,32,B,7,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - IBM Db2 "
+Q32_B_Part_8,32,B,8,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Microsoft SQL Server "
+Q32_B_Part_9,32,B,9,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Microsoft Azure SQL Database "
+Q32_B_Part_10,32,B,10,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Microsoft Azure Cosmos DB "
+Q32_B_Part_11,32,B,11,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon Redshift "
+Q32_B_Part_12,32,B,12,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon Aurora "
+Q32_B_Part_13,32,B,13,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon DynamoDB "
+Q32_B_Part_14,32,B,14,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon RDS "
+Q32_B_Part_15,32,B,15,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud BigQuery "
+Q32_B_Part_16,32,B,16,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud SQL "
+Q32_B_Part_17,32,B,17,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud Firestore "
+Q32_B_Part_18,32,B,18,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud BigTable "
+Q32_B_Part_19,32,B,19,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud Spanner "
+Q32_B_Part_20,32,B,20,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - None"
+Q32_B_OTHER,32,B,OTHER,"Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Other"
+Q34_B_Part_1,34,B,1,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Microsoft Power BI
+Q34_B_Part_2,34,B,2,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon QuickSight
+Q34_B_Part_3,34,B,3,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Data Studio
+Q34_B_Part_4,34,B,4,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Looker
+Q34_B_Part_5,34,B,5,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Tableau
+Q34_B_Part_6,34,B,6,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Salesforce
+Q34_B_Part_7,34,B,7,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Tableau CRM
+Q34_B_Part_8,34,B,8,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Qlik
+Q34_B_Part_9,34,B,9,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Domo
+Q34_B_Part_10,34,B,10,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - TIBCO Spotfire
+Q34_B_Part_11,34,B,11,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Alteryx 
+Q34_B_Part_12,34,B,12,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Sisense 
+Q34_B_Part_13,34,B,13,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - SAP Analytics Cloud 
+Q34_B_Part_14,34,B,14,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Microsoft Azure Synapse 
+Q34_B_Part_15,34,B,15,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Thoughtspot 
+Q34_B_Part_16,34,B,16,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - None
+Q34_B_OTHER,34,B,OTHER,Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Other
+Q36_B_Part_1,36,B,1,"Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Automated data augmentation (e.g. imgaug, albumentations)"
+Q36_B_Part_2,36,B,2,"Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Automated feature engineering/selection (e.g. tpot, boruta_py)"
+Q36_B_Part_3,36,B,3,"Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Automated model selection (e.g. auto-sklearn, xcessiv)"
+Q36_B_Part_4,36,B,4,"Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Automated model architecture searches (e.g. darts, enas)"
+Q36_B_Part_5,36,B,5,"Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Automated hyperparameter tuning (e.g. hyperopt, ray.tune, Vizier)"
+Q36_B_Part_6,36,B,6,"Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Automation of full ML pipelines (e.g. Google Cloud AutoML, H2O Driverless AI)"
+Q36_B_Part_7,36,B,7,Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - None
+Q36_B_OTHER,36,B,OTHER,Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Other
+Q37_B_Part_1,37,B,1,Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -  Google Cloud AutoML 
+Q37_B_Part_2,37,B,2,Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -  H2O Driverless AI  
+Q37_B_Part_3,37,B,3,Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -  Databricks AutoML 
+Q37_B_Part_4,37,B,4,Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -  DataRobot AutoML 
+Q37_B_Part_5,37,B,5,Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -   Amazon Sagemaker Autopilot 
+Q37_B_Part_6,37,B,6,Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -   Azure Automated Machine Learning 
+Q37_B_Part_7,37,B,7,Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - None
+Q37_B_OTHER,37,B,OTHER,Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Other
+Q38_B_Part_1,38,B,1,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Neptune.ai "
+Q38_B_Part_2,38,B,2,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Weights & Biases "
+Q38_B_Part_3,38,B,3,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Comet.ml "
+Q38_B_Part_4,38,B,4,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Sacred + Omniboard "
+Q38_B_Part_5,38,B,5,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  TensorBoard "
+Q38_B_Part_6,38,B,6,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Guild.ai "
+Q38_B_Part_7,38,B,7,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Polyaxon "
+Q38_B_Part_8,38,B,8,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  ClearML "
+Q38_B_Part_9,38,B,9,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Domino Model Monitor "
+Q38_B_Part_10,38,B,10,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  MLflow "
+Q38_B_Part_11,38,B,11,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice - None"
+Q38_B_OTHER,38,B,OTHER,"In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice - Other"

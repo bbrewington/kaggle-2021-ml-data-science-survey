@@ -41,7 +41,8 @@ df = pd.read_csv('data/interim/kaggle_survey_2021_responses.csv', dtype = 'objec
 
 questions = df.iloc[0].to_dict()
 
-def parse_question(question_key):
+def parse_question(question_key, question_description):
+    # realize this is a pretty terse regex...look at output data/.../questions.csv to see what it's doing
     pattern = "^Q(?P<id>\d+)((_(?P<id_sub>[A-Z]))?_(Part_)?(?P<part>(\d+|OTHER)))?$"
     results = re.match(pattern, question_key)
 
@@ -57,15 +58,16 @@ def parse_question(question_key):
         'question_key': question_key,
         'id': parse_results(results, 'id'),
         'id_sub': parse_results(results, 'id_sub'),
-        'part': parse_results(results, 'part')
+        'part': parse_results(results, 'part'),
+        'description': question_description
     }
 
     return return_dict
 
 print('get_data.py: parsing questions')
 questions_parsed_list = []
-for q in questions:
-    questions_parsed_list.append(parse_question(q))
+for k, v in questions.items():
+    questions_parsed_list.append(parse_question(question_key=k, question_description=v))
 
 questions_parsed = pd.DataFrame(questions_parsed_list)
 
