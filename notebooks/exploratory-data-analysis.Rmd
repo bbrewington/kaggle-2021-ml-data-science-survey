@@ -1,9 +1,74 @@
 ---
 title: "Kaggle ML/DS Survey: Exploratory Data Analysis (with R)"
-output: html_notebook
+output: github_document
 ---
 
-```{r get data}
-system("python3 ../src/get_data.py")
+### Setup
+
+To get raw data, first run these scripts: `src/get_data.py`, `src/parse_questions.py`
+  - outputs the CSV files referenced below
+
+### Get Initial Data
+
+```{r setup and get data}
+library(tidyverse)
+
+questions <- read_csv("../data/interim/questions.csv", col_types = "c") %>%
+  mutate(question_key = if_else(question_key == "Time from Start to Finish (seconds)", "duration_sec", question_key),
+         id = as.integer(id)
+  ) %>%
+  rename(question_id = id, question_id_sub = id_sub, question_part = part, question_description = description)
+head(questions)
+
+responses_raw <- read_csv("../data/interim/kaggle_survey_2021_responses.csv", col_types = "c")
+head(responses_raw)
+
+responses <- responses_raw %>%
+  mutate(response_id = row_number()) %>%
+  rename(duration_sec = `Time from Start to Finish (seconds)`)
+head(responses)
+
+responses_long <- left_join(
+  questions,
+  responses %>%
+    pivot_longer(names_to = "question_key", cols = duration_sec:Q38_B_OTHER) %>%
+    filter(!is.na(value)),
+  by = "question_key"
+)
+glimpse(responses_long)
+
+salary <- responses_long %>%
+  filter(question_id == 25) %>%
+  mutate(salary_lower = as.integer(str_extract(str_replace_all(value, "[>$,]", ""), "^\\d+"))) %>%
+  mutate(salary = factor(salary_lower, ordered = TRUE, labels = unique(value[order(salary_lower)])))
+glimpse(salary)
+```
+
+### More Exploration
+Need to clean up the plot, but saving as is for now
+```{r}
+response_summary <- responses %>%
+  select(-duration_sec) %>%
+  pivot_longer(names_to = "question_key", cols = Q1:Q38_B_OTHER) %>%
+  filter(!is.na(value)) %>%
+  group_by(question_key, value) %>%
+  summarise(count = n(), .groups = "drop") %>%
+  group_by(question_key) %>%
+  mutate(pct = count / sum(count)) %>%
+  ungroup()
+head(response_summary)
+
+response_summary_top5 <- response_summary %>%
+  group_by(question_key) %>%
+  mutate(top_5_flag = count %in% sort(unique(count), decreasing = TRUE)[1:5]) %>%
+  ungroup() %>%
+  mutate(value_cleaned = if_else(top_5_flag, value, "other"))
+head(response_summary_top5)
+
+response_summary_top5 %>%
+  filter(!str_detect(question_key, "Part|OTHER")) %>%
+  ggplot() +
+  geom_bar(aes(value_cleaned, count), stat = "identity") +
+  facet_wrap(~question_key, scales = "free")
 ```
 
