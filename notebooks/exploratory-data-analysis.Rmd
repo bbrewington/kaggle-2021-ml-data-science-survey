@@ -1,0 +1,9 @@
+---
+title: "Kaggle ML/DS Survey: Exploratory Data Analysis (with R)"
+output: html_notebook
+---
+
+```{r get data}
+system("python3 ../src/get_data.py")
+```
+
