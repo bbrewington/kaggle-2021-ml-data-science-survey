@@ -46,7 +46,7 @@ glimpse(salary)
 
 ### More Exploration
 Need to clean up the plot, but saving as is for now
-```{r}
+```{r, fig.width=11, fig.height=8.5}
 response_summary <- responses %>%
   select(-duration_sec) %>%
   pivot_longer(names_to = "question_key", cols = Q1:Q38_B_OTHER) %>%
@@ -66,9 +66,13 @@ response_summary_top5 <- response_summary %>%
 head(response_summary_top5)
 
 response_summary_top5 %>%
-  filter(!str_detect(question_key, "Part|OTHER")) %>%
+  filter(!str_detect(question_key, "Part|OTHER")) %>% 
+  left_join(questions, by = "question_key") %>%
   ggplot() +
-  geom_bar(aes(value_cleaned, count), stat = "identity") +
-  facet_wrap(~question_key, scales = "free")
+  geom_bar(aes(str_wrap(value_cleaned, 20), count), stat = "identity") +
+  facet_wrap(~str_wrap(paste0(question_key, ": ", question_description), width = 50),
+             scales = "free") +
+  theme(axis.text.x = element_text(angle = 90, size = 6))
+
 ```
 

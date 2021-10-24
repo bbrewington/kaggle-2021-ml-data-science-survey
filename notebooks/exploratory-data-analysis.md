@@ -177,10 +177,13 @@ head(response_summary_top5)
 
 ``` r
 response_summary_top5 %>%
-  filter(!str_detect(question_key, "Part|OTHER")) %>%
+  filter(!str_detect(question_key, "Part|OTHER")) %>% 
+  left_join(questions, by = "question_key") %>%
   ggplot() +
-  geom_bar(aes(value_cleaned, count), stat = "identity") +
-  facet_wrap(~question_key, scales = "free")
+  geom_bar(aes(str_wrap(value_cleaned, 20), count), stat = "identity") +
+  facet_wrap(~str_wrap(paste0(question_key, ": ", question_description), width = 50),
+             scales = "free") +
+  theme(axis.text.x = element_text(angle = 90, size = 6))
 ```
 
 ![](exploratory-data-analysis_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
