@@ -2,14 +2,29 @@
 
 ### Data Overview
 * [Exploratory Data Analysis](notebooks/exploratory-data-analysis.md)
-* Data Dictionary: Response Table
-  - Duration in seconds
-  - TODO: Fill in rest
 
-* Column Types: Questions table
+* Responses Table (long format) - Columns
+  - **question_key**: 
+    - first 20 values: duration_sec, Q1, Q2, Q3, Q4, Q5, Q6, Q7_Part_1, Q7_Part_2, Q7_Part_3, Q7_Part_4, Q7_Part_5, Q7_Part_6, Q7_Part_7, Q7_Part_8, Q7_Part_9, Q7_Part_10, Q7_Part_11, Q7_Part_12, Q7_OTHER
+  - **question_id**: the number after "Q" - for "Q7_Part_2", is 7
+    - Ranges from 1 to 42 (exception: question_key "duration_sec" has no question id)
+  - **question_id_sub**: either blank, "A"", or "B".  For Q27_A_Part_1, is "A"
+  - **question_part**: text after "Part_".  For Q27_A_Part_1, is "1"
+    - Ranges from 1 to 20
+    - This field captures the "OTHER" text.  example: For Q27_A_OTHER, is "OTHER"
+  - **question_description**: full question text.  Can contain a topic/choice structure (example in sub-bullet)
+    - Example question with topic/choice: What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Python
+      - topic: Programming language used on regular basis
+      - choice: Python
+  - **response_id**: unique identifier of each row in `kaggle_survey_2021_responses.csv`
+  - **value**: Answer to the question
+<br><br>
+
+* Questions table
   - Regular question/response (e.g. Q25 "What is your current yearly compensation (approximate $USD)?")
   - Multiple Response (e.g. Q7_Part_N: "What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - {response here}")
-  - TODO: clean this up
+  - Convert salaries by country into terms of [The Economist's Big Mac Index](https://github.com/TheEconomist/big-mac-data/tree/master/output-data)
+    - Inspired by Carl Mcbride's notebook: https://www.kaggle.com/carlmcbrideellis/how-much-do-people-on-kaggle-earn-by-country-2021/notebook
 
 ### Research Questions
 * Do some clustering to find different types of use cases
